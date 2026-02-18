@@ -1,9 +1,7 @@
-Simple Java project created to manage people using basic Object-Oriented Programming concepts.
 
 ## Getting Started
 
-Welcome to the VS Code Java world!
-This project was developed using Java in Visual Studio Code.
+Simple Java project created to manage people using basic Object-Oriented Programming concepts.
 
 It is a simple console application that allows you to:
 
