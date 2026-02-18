@@ -1,18 +1,34 @@
+Simple Java project created to manage people using basic Object-Oriented Programming concepts.
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the VS Code Java world!
+This project was developed using Java in Visual Studio Code.
+
+It is a simple console application that allows you to:
+
+- Register people
+- List all registered people
+- Practice Java fundamentals
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The workspace contains the following folders:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+src  → source code files  
+lib  → project dependencies  
+bin  → compiled output files (generated automatically)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+If you want to customize the folder structure, open:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+.vscode/settings.json
 
-## Dependency Management
+and update the related settings there.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Concepts Practiced
+
+- Classes and Objects
+- ArrayList
+- Encapsulation
+- Methods
+- Basic console interaction
