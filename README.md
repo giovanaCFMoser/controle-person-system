@@ -15,7 +15,6 @@ The workspace contains the following folders:
 
 src  → source code files  
 lib  → project dependencies  
-bin  → compiled output files (generated automatically)
 
 If you want to customize the folder structure, open:
 
